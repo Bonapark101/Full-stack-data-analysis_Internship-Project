@@ -38,6 +38,7 @@ Recommendation: Rebalancing sourcing based on the finding to reduce holding cost
 
 # NOTE
 Due to confidentiality, sales data from ZOHO book is not included in this repository.
+
 Summary of data processing:
 1. Created two reports in ZohoBook (FIFO Cost Lot Tracking, Invoice Details).
 2. Exported the reports as CSV files and selected relevant columns from each.
