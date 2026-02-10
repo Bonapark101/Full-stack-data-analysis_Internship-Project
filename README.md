@@ -24,6 +24,10 @@ This analysis showed that spot coffee revenue peaks in June/July, with 173% clie
 
 <img width="441" height="378" alt="Screenshot 2026-02-10 at 15 59 19" src="https://github.com/user-attachments/assets/802e6713-af6e-44a5-8266-1c9ce4725577" />
 
+
+<img width="441" height="378" alt="Screenshot 2026-02-10 at 16 56 52" src="https://github.com/user-attachments/assets/30d9b7f4-a3b0-4e9b-b3b1-220922f321f3" />
+
+
 Recommendation: Rebalancing sourcing based on the finding to reduce holding costs and boost profitability.
 
 *Because the company operates pre-order coffee and spot coffee, further anlaysis is required on overall lot sales performance across both channels to confirm strategy applicability
