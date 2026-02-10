@@ -4,7 +4,7 @@ Spot coffee sales performance analysis
 # Executive summary
 The company is growing its client base and increasing the number of spot lots available. Using Python and Tableau, I pulled sales and lot attributes data to create a dashboard to inspect the sales and market trends throughout 2023 - 2025. I identified that the largest revenue oppportunities are to increase spot coffee lots having 'Nutty/Cocoa' and 'Nutty/Cocoa + Fruity' flavour. Additionally, I researched that these profiles match how consumer shift toward iced and cold coffee drinks in hot weather, where smooth chocolatey and fruity notes work especially well in lattes, coldb brew, and seasonal limited-time drinks.
 
-I linked the finding to the market trend and consumer behaviour to recommended the company to:
+I connected the finding to the market trend and consumer behaviour to recommended the company to:
 1) Source more coffees with Nutty/Cocoa and Nutty/Cocoa + Fruity flavour
 2) Increase the share of those flavour profiles in the company's summer spot offers. 
 
@@ -35,3 +35,10 @@ Recommendation: Rebalancing sourcing based on the finding to reduce holding cost
 # Next Steps
 1. Research and analyze about regional market and clients
 2. Analyze pre-order coffee sales performance
+
+# NOTE
+Due to confidentiality, sales data from ZOHO book is not included in this repository.
+Summary of data processing:
+1. Created two reports in ZohoBook (FIFO Cost Lot Tracking, Invoice Details).
+2. Exported the reports as CSV files and selected relevant columns from each.
+3. Merged the two CSV files into a single dataset for anlaysis.
