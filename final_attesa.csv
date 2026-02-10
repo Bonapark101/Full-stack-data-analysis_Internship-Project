@@ -1,0 +1,333 @@
+lot_id,origin,process,varietal,sca_score,profile,Profile_SCA_Valid,standard_flavour
+ATT230134,Honduras,Natural,Typica,87.25,"Complex, Sweet, Tropical Gummy Bears, Peach, Pina Colada",peach,Fruity
+ATT230137,Honduras,Natural,Catuai,86.25,"Bright, Fruity, Jammy, Raspberry, Cherry, Bonbon, Wine Grape","cherry, raspberry",Fruity
+ATT230142,Honduras,Natural,Catuai,86.5,"Long, Cinnamon, Grape, Stone Fruit, Caramel, Honey","caramel, cinnamon, grape, honey","Fruity, Spices, Sweet"
+ATT230312 ,Honduras,Natural,Typica,86.75,"Smooth, Long, Nectarine, Red Apple, Summer Fruits, Buttery mouthfeel",,
+ATT230313 ,Honduras,Natural,Typica,86.25,"Juicy, Fruity, Pleasant Acidity, Orange, Lemon, Mint, Cinnamon","cinnamon, lemon, orange","Fruity, Spices"
+ATT230437,Colombia,Washed,Pink Bourbon,86.75,"Tealike, Earl Grey, Mango, Sweet Orange, Good Body",,
+ATT230333,Colombia,"Yeast-inoculated, dry fermented washed",Pink Bourbon,87.5,"Complex, Soft Mouthfeel, Juicy, Peach,
+Strawberry, Orange Peel, Cinnamon, Milk
+Chocolate","cinnamon, peach, strawberry","Fruity, Spices"
+ATT230176,Mexico,Anaerobic Natural,Pache,86.5,"Complex, Fruity, Bright Acidity, Lemon, Caramel","caramel, lemon","Fruity, Sweet"
+ATT230178,Mexico,Washed,Pache,85.5,"Balanced, Smooth, Melon, Grape, Caramel, Milk Chocolate","caramel, grape, milk chocolate","Fruity, Nutty/Cocoa, Sweet"
+ATT230201,El Salvador,Anaerobic Natural,Bourbon,87.25,"Fruity, Long, , Full, Strawberry, Nutella, Cherry, Marzipan","cherry, strawberry",Fruity
+ATT230203,El Salvador,Anaerobic Natural,Bourbon / Pacas,87.0,"Juicy, Vibrant Acidity, Tropical Fruity, Pineapple, Milk Chocolate","milk chocolate, pineapple","Fruity, Nutty/Cocoa"
+ATT230204,El Salvador,Anaerobic Natural,Castillo / Bourbon,87.75,"Juicy, Complex, Orange, Tangerine, Lemon, Lavender","lemon, orange",Fruity
+ATT230553,Brazil,Natural,Blend,83.75,"Walnut, Milk Chocolate, Good Sweetness, Mellow Acidity",milk chocolate,Nutty/Cocoa
+ATT240106,Colombia,Fully washed,Typica,87.75,"caramel, red berries, raw cocoa, tea like body, smooth fruity aftertaste, complex",caramel,Sweet
+ATT240110,Colombia,Washed,Caturra,82.25,"Citric, cacao, mellow, full body, clean, orange & balanced",cacao,Nutty/Cocoa
+ATT240120,Colombia,Anaerobic Natural,Pink Bourbon,87.0,"sweet, peach, caramel, cherry, coating body, sweet finish","caramel, cherry, peach","Fruity, Sweet"
+ATT240152,Colombia,Washed,Caturra,86.25,"Citric acidity, Round body, Long aftertaste, Orange, Yellow",orange,Fruity
+ATT240153,Colombia,Washed,Caturra,87.0,"Fruity, tangerine, peach, berry, bright acidity, blackcurrant like aftertaste",peach,Fruity
+ATT240210,Colombia,Washed,Colombia - Castillo,84.75,"Almond, milk chocolate, vanilla, mandarin, balanced","almond, mandarin, milk chocolate, vanilla","Fruity, Nutty/Cocoa, Sweet"
+ATT240211,Colombia,Decaf sugarcane,Colombia - Castillo,83.5,"Orange, caramel, cacao, milk chocolate, round body, balanced aftertaste","cacao, caramel, milk chocolate, orange","Fruity, Nutty/Cocoa, Sweet"
+ATT230206,India,Natural,CxR,,"Cacao nibs, spice, nutty",,
+ATT230209,India,Natural,CxR,,"Chocolate, Hazelnut, Spice","chocolate, hazelnut",Nutty/Cocoa
+ATT240165,India,Monsooned,S-795,,"Spice, Cedar, Tobacco",tobacco,Roasted
+ATT240215,India,Aerobic Washed,S-795,85.75,"Dark chocolate, caramel, apricot, rounded body,
+good aftertaste","caramel, dark chocolate","Nutty/Cocoa, Sweet"
+ATT240216,India,Aerobic Washed,Catimor,85.75,"Kinder bueno, milk, banana, full rounded body,
+great and full aftertaste",,
+ATT230301,India,Washed,S-795,,TBD,,
+ATT240138,Ethiopia,Natural,Heirloom,86.0,"Stone fruits, sweet orange, tea like body, long aftertaste",,
+ATT240207,Ethiopia,Natural,Heirloom,84.5,"Vanilla, floral, minty, guava, balanced acidity, good body, unique aftertaste",vanilla,Sweet
+ATT240170,Kenya,Washed,"SL 28, Ruiru 11, Batian",87.0,"Plum, raspberry, blackberry, bright acidity good quality, full body, super juicy, great balance","blackberry, raspberry",Fruity
+ATT240174,Kenya,Washed,"SL 28, Ruiru 11, Batian",88.0,"lemon, black currant, britght acidity, almond, velvety body, long aftertaste ","almond, lemon","Fruity, Nutty/Cocoa"
+ATT240175,Kenya,Washed,"SL 28, Ruiru 11, Batian",87.75,"spice aroma, peach, milk chocolate, orange, lavender, round body, juicy and long aftertaste","milk chocolate, orange, peach","Fruity, Nutty/Cocoa"
+ATT240178,Kenya,Washed,"SL 28, Ruiru 11, Batian",87.5,"floral aroma, citrus fruits, caramel, rounded body, ",caramel,Sweet
+ATT240179,Kenya,Washed,"SL 28, Ruiru 11, Batian",88.0,"apricot, strawberry, chocolate, high quality acidity, tea like body, juicy","chocolate, strawberry","Fruity, Nutty/Cocoa"
+ATT240181,Kenya,Washed,"SL 28, Ruiru 11, Batian",88.5,"nutty, vanilla, mint, blueberry, banana, bright acidity, juicy body, clean aftertaste ","blueberry, vanilla","Fruity, Sweet"
+ATT240188,Kenya,Washed,"SL 28, Ruiru 11, Batian",87.5,"chocolate and citrus aroma, black tea, caramel, red orange, clean aftertaste ","black tea, caramel","Floral, Sweet"
+DISCOUNTED COFFEE OFFERS,,,,,,,
+,,,,,,,
+Lot ID,Origin,Process,Varietal,,Profile,,
+ATT220338,Rwanda,Fully Washed,Red Bourbon,85.5,"Soft, Creamy, Red Berry, Red Currant, Stroop, Good Body",,
+ATT220334,Rwanda,Fully Washed,Red Bourbon,85.75,"Orange Blossom, Wild Strawberry, Pastry",,
+ATT210139,India,Red Honey,Catimor,83.75,"Sweet Lime, Green Apple",,
+ATT220163,India,Anaerobic Natural,"Sarchimor / 
+Catimor",86.25,"Sweet, Syrupy, Long, Cranberry Compote, Bing Cherry",,
+ATT220190,India,Anaerobic Natural,Catimor,85.75,"Juicy, Sweet, Mango, Cranberry, 
+Apricot, Almond",almond,Nutty/Cocoa
+ATT220192,India,Anaerobic Natural,Catimor,85.5,"Complex, Long, Toned, Black Cherry, Prune, Dark Chocolate","dark chocolate, prune","Fruity, Nutty/Cocoa"
+Terms & Conditions:,,,,,,,
+Pricing and quantity subject to unsold and confirmation ,,,,,,,
+All coffees located in NL (Netherlands): prices exclude 9% BTW / VAT (only charged for companies registered in The Netherlands),,,,,,,
+"All coffees located in Antwerp, Belgium: prices exclude 6% BTW / VAT (only charged for companies registered in Belgium)",,,,,,,
+"All coffees located in Łódź, Poland: prices exclude 23% VAT (only charged for companies registered in Poland)",,,,,,,
+Contracting of coffees is possible. Please contact us for further details,,,,,,,
+Prices valid till 31-08-2024,,,,,,,
+Click here for our detailed terms & conditions,,,,,,,
+ATT230139,Honduras,Washed,Typica,85.25,"Smooth, Pleasant mouthfeel, Silky, Strawberry, Dark Chocolate","dark chocolate, strawberry","Fruity, Nutty/Cocoa"
+ATT230244,Colombia,Sugar Cane,Castillo / Colombia,84.5,"Juicy, Long, Well Balanced, Red Fruits, Vanilla, Butterscotch",vanilla,Sweet
+ATT230484,Colombia,Washed,Caturra,84.0,"Caramel, Red Fruit, Peach, Medium Body, Medium Acidity","caramel, peach","Fruity, Sweet"
+ATT230485,Colombia,Washed,Caturra,84.25,"Sweet, Peachy, Sparkling Body, Medium Acidity",,
+ATT230486,Colombia,Washed,Caturra,84.5,"Citric acidity, Round body, Long aftertaste, Orange, Yellow",orange,Fruity
+ATT230487,Colombia,Washed,Caturra,84.0,"Caramel, Toasted almond, Tangerine, Sweet, Medium Body",caramel,Sweet
+ATT230439 ,Colombia,Washed,Colombia / Castillo,84.0,"Grape, Orange blossom, Milk chocolate, Caramel","caramel, grape, milk chocolate","Fruity, Nutty/Cocoa, Sweet"
+ATT230307,India,Monsooned,S-795,,-,,
+ATT230105,Guatemala,Washed,Bourbon / Caturra,84.75,"Stone Fruits, Chocolate, Hazelnut, Balanced, Round","chocolate, hazelnut",Nutty/Cocoa
+ATT230164,Guatemala,Washed,Caturra / Pache,,"Complex, Vibrant Acidity, Red Apple, Strawberry Vanilla, Melon ",,
+ATT230175,Mexico,Anaerobic Natural,Geisha / Caturra,86.75,"Bright, Juicy, Cantalope, White Grape, Vanilla Ice Cream",,
+ATT230193,Kenya,Washed,SL-28 / SL-34,87.0,"Juicy, Sweet, Srawberry, Cranberry, Blackcurrent, Thick",,
+ATT230151,Kenya,Washed,SL-28 / SL-34,87.0,"Smooth, Tealike, Floral, Jasmine, Mint, Speculaas",jasmine,Floral
+ATT230195,Kenya,Washed,SL-28 / SL-34,85.25,"Sweet, Melon, Fresh Lemon, Tealike, Red Current, Caramel",caramel,Sweet
+ATT220176,Honduras,Natural,Typica,85.75,"Smooth Juicy Body, Peach, 
+Mango, Liquor",peach,Fruity
+ATT220251,Honduras,Natural,Catuai,86.0,"Long, Fruity , Floral, Cherry, Mandarin, Milk Chocolate","cherry, mandarin, milk chocolate","Fruity, Nutty/Cocoa"
+ATT210306,Colombia,"Washed - Natural Fermented 
+48Hrs","Caturra / 
+Colombia",86.5,"Soft, Sweet, Orange, Walnut, 
+Caramel, Cacao Nibs","caramel, orange","Fruity, Sweet"
+ATT220346,Rwanda,Natural,Red Bourbon,87.25,"Complex, Rose, Strawberry, Raspberry, Long, Good Finish","raspberry, rose, strawberry","Floral, Fruity"
+ATT220347,Rwanda,Honey,Red Bourbon,87.0,"Complex, Earl Grey Tea, Cinnamon, Cardemom, Floral, Bright",cinnamon,Spices
+ATT220370,Brazil,Natural,Yellow Catuai,86.5,"Peach, Mandarin, Caramel, Cacao Nibs, Juicy Sweet, Full Bodied, Long ","caramel, mandarin, peach","Fruity, Sweet"
+ATT220379,Brazil,Natural,Blend,83.75,"Walnut, Milk Chocolate, Good Sweetness, Mellow Acidity",milk chocolate,Nutty/Cocoa
+ATT230274,India,Aerobic Washed,Catimor,85.5,"Creamy, Long, Marzipan, Cardamom, Vanilla, Bakers Chocolate",vanilla,Sweet
+ATT230207,India,Washed,S-795,84.5,"Clean, Well Balanced, Peanut Butter, Dark Chocolate, Hazelnut","dark chocolate, hazelnut",Nutty/Cocoa
+ATT230205,India,Washed,CxR,81.25,"Clean, Dark Chocolate, Hazelnut, Pepper","dark chocolate, hazelnut, pepper","Nutty/Cocoa, Spices"
+ATT220373,Brazil,Natural,Catucai,85.5,"Orange, Apricot, Hazelnut, Caramel, Good Sweetness, Well Balanced ","caramel, hazelnut, orange","Fruity, Nutty/Cocoa, Sweet"
+ATT230112,Vietnam,Natural,Blend,,-,,
+Prices valid till 30-11-2023,,,,,,,
+ATT240290,Colombia,Anaerobic Washed,Geisha,87.0,"Yellow fruits, lemongrass, floral, juicy mouthfeel,
+honey aftertaste",,
+ATT240291,Colombia,Natural,Pink Bourbon,87.5,"Red berries, banana, pink guava, coating mouthfeel,
+boosy finish",,
+ATT250162,Colombia,"Washed Anaerobic
+Fermentation","Caturra - Colombia -
+Castillo",87.5,"Stewed plum, raisin, maple, round body, white
+chocolate finish",raisin,Fruity
+ATT250325,Colombia,Sugar cane decaf,Castillo & Colombia,84.0,"Dark berries, milk chocolate, sugarcane, creamy
+mouthfeel, long sweet finish.",milk chocolate,Nutty/Cocoa
+ATT240177,Kenya,Washed,"SL 28, Ruiru 11, Batian",87.5,"Bright, citric, floral, cranberry, tea like body, lingering
+aftertaste",,
+ATT240335,Rwanda,Natural,Bourbon,86.0,"Cherries, honey, red fruits, syrupy mouthfeel,
+chocolate aftertaste",honey,Sweet
+ATT240337,Rwanda,Natural,Bourbon,85.0,"Orange, caramel, floral, juicy mouthfeel, citrusy finish.","caramel, orange","Fruity, Sweet"
+ATT240339,Rwanda,Washed,Bourbon,86.5,"Caramel, complex fruits, citric, well-rounded,
+balanced, long finish.",caramel,Sweet
+ATT240341,Rwanda,Washed,Bourbon,85.75,"Stone fruits, mandarine, floral, high complexity, well-
+balanced.",,
+ATT250148,Honduras,Semiwashed,Ihcafe 90 - Pacas,84.0,"Apricot, Sweet papaya, Honey, round body, tea-like
+finish",honey,Sweet
+ATT250151,Honduras,Honey,Ihcafe 90,86.0,"Blackcurrant, stewed plum, earl grey tea, velvety
+mouthfeel, caramel finish",,
+ATT250152,Honduras,Honey,"Ihcafe 90, Catuai",86.0,"Strawberry, black grape, Date, complex structure,
+long-lasting finish",strawberry,Fruity
+ATT250153,Honduras,Natural,Pacas,85.0,"Red apple, mule wine, warm spices, winey mouthfeel,
+dark chocolate finish",,
+ATT250185,Honduras,Washed,Blend,84.5,"Roast almond, raisin, sugarcane, coating mouthfeel,
+milk chocolate finish",raisin,Fruity
+ATT240333,Indonesia,Washed,"Ateng, P88",85.75,"Orange, warm spice, herbal tea, creamy body,
+chocolate aftertaste",orange,Fruity
+ATT240334,Indonesia,Wet hull,"Ateng, P88",85.5,"Tangerine, brown sugar, dark chocolate, rich
+mouthfeel, long finish","brown sugar, dark chocolate","Nutty/Cocoa, Sweet"
+ATT240323,Brazil,Natural,Catuai,87.0,"Molasses, papaya, orange, brown sugar, honey,
+viscous body, citric acidity.","brown sugar, honey, molasses, orange","Fruity, Sweet"
+ATT240327,Brazil,Natural,Blend,83.0,"Caramel, nutty, chocolate, bold body, well-balanced","caramel, chocolate","Nutty/Cocoa, Sweet"
+ATT240372,Brazil,Natural,Blend,,"Chocolate, rasin, nutty, bold body, long-sweet
+aftertaste",chocolate,Nutty/Cocoa
+ATT230566,Vietnam,Natural,Robusta - Blend,,"Chocolate, nutty",chocolate,Nutty/Cocoa
+ATT240366,Peru,Washed,Java,87.0,"Red fruits, sweet lemon, apple, caramel, molasses,
+chocolate, creamy body","apple, caramel, chocolate, molasses","Fruity, Nutty/Cocoa, Sweet"
+ATT240368,Peru,Washed,Typica,86.0,"Citrus fruits, aromatic herbs, floral, bright acidity,
+honey aftertaste.",,
+ATT250178,Costa Rica,Natural,H1 Centroamericano,85.0,"Stewed fruits, black grapes, caramel, mellow
+mouthfeel, smooth finish",caramel,Sweet
+ATT250226,Costa Rica,Washed,"Caturra, Catuai",84.0,"Lemon, orange, sugarcane, citric acidity, juicy finish","lemon, orange",Fruity
+ATT250306,Costa Rica,Natural,Red Catuai,86.5,"Grapes, red apple, honey, complex mouthfeel, juicy
+finish",honey,Sweet
+ATT250307,Costa Rica,Honey,"Red Catuai, Caturra",85.5,"Red fruits, dried banana, dark chocolate, funky
+mouthfeel, boosy finish",dark chocolate,Nutty/Cocoa
+ATT250272,Colombia,Natural,Pacamara,87.0,"Red berries, pink guava, mint, funky mouthfeel,
+complex aftertaste",,
+ATT250274,Colombia,Anaerobic Washed,Geisha,87.5,"Lemongrass, pineapple, ginger, intense flavour,
+creamy mouthfeel",pineapple,Fruity
+ATT250403,Colombia,Honey,Geisha,89.0,"Cantaloupe, yuzu, orange flowers, elegant acidity,
+clean mouthfeel",,
+ATT250404,Colombia,Dry washed,Papayo,87.5,"Sweet mandarin, ginger, herbal, citric acidity, clean
+mouthfeel",herbal,Green/Vegetative
+ATT250405,Colombia,Washed,Pink Bourbon,88.75,"Lemon, stonefruits, flower tea, bright acidity, clean
+mouthfeel",lemon,Fruity
+ATT250127,Ethiopia,Natural,Bourbon,87.5,"Red berries, blood orange, chocolate, complex
+mouthfeel, long-lasting finish",chocolate,Nutty/Cocoa
+ATT250132,Ethiopia,Washed,Heirloom,87.0,"Grapefruits, black tea, white flowers, structure and
+harmony, elegant finish",black tea,Floral
+ATT250158,Ethiopia,Washed,Heirloom,84.0,"Stonefruits, lemon, floral, silky body, subtle aftertaste",lemon,Fruity
+ATT250327,Ethiopia,Natural,Heirloom,,"Roast nuts, raisins, caramel, mild acidity, bold
+mouthfeel",caramel,Sweet
+ATT250328,Ethiopia,Natural,Heirloom,,"Roast nuts, dates, mapple syrup, mild acidity, rich
+body",,
+ATT250447,India,Natural,Robusta - CxR,,"Roasted nut, cacao nibs, warm spice, mild acidity,
+creamy body",,
+ATT250448,India,Natural,Robusta - CxR,,"Liquorice, dark chocolate, warm spice, creamy body,
+hazelnut finish",dark chocolate,Nutty/Cocoa
+ATT250143,Kenya,Washed,"SL 28 - Ruiru 11 -
+Batian",87.75,"Lemon, red berries, black tea, juicy mouthfeel,
+nuanced and sweet finish","black tea, lemon","Floral, Fruity"
+ATT250283,Kenya,Washed,"SL 28, SL34, Ruiru 11,
+Batian",86.75,"Grapefruits, strawberry, hibiscus tea, tangy mouthfeel,
+elegant finish",strawberry,Fruity
+ATT250284,Kenya,Washed,"SL 28 ,SL 34, Ruiru 11",87.25,"Green apple, rhubarb, cherry,nice long, sweet finish",cherry,Fruity
+ATT240121,Colombia,Anaerobic Natural,SL28,85.5,"Cherry, praline, marzipan, bold mouthfeel, dark
+chocolate aftertaste",cherry,Fruity
+ATT240103,Colombia,Dry washed,Pink Bourbon,87.25,"Pineapple, cranberry, apple, long lasting fruity aftertaste","apple, pineapple",Fruity
+ATT240111,Colombia,Washed,Yellow Bourbon,87.5,"Nutty, caramel, tea like body, mandarine, honey, floral","caramel, honey",Sweet
+ATT240123,Colombia,Anaerobic Honey Strawberry Fermented ,Caturra,87.75,"Peach, strawberry, bright acidity, peach aftertaste, coating body","peach, strawberry",Fruity
+ATT240112,Colombia,Yeast and thermal Shock,Orange Bourbon,86.75,"Cheetos, lime, herbal,
+complex, orange tangerine","herbal, lime","Fruity, Green/Vegetative"
+ATT240109,Colombia,Natural,Caturra,86.5,"Raspberry, fruity, milk choco, creamy, melon, nutella",raspberry,Fruity
+ATT240151,Colombia,Washed,Caturra,85.75,"Vanilla, biscuit, creamy body, balanced aftertaste",vanilla,Sweet
+ATT240292,Colombia,Natural,Bourbon Sidra,87.5,"Cinnamon, milk chocolate, orange, silky, clove, spice","cinnamon, clove, milk chocolate, orange","Fruity, Nutty/Cocoa, Spices"
+ATT240301,Colombia,Washed,Tabi,86.5,"Vanilla, milk choco, strawberry, balanced body","strawberry, vanilla","Fruity, Sweet"
+ATT240413,Colombia,"Honey, Lychee profile",Caturra,87.0,"Citric, silky, caramel sauce, juicy, lychee, honey, cherry in sirup",honey,Sweet
+ATT240414,Colombia,"Honey, Strawberry profile",Caturra,87.0,"Milk chocolate, red fruits, strawberry, silky, candied fruit","milk chocolate, strawberry","Fruity, Nutty/Cocoa"
+ATT240415,Colombia,"Honey, Kiwi profile",Caturra,87.0,"Aromatic, green apple, kiwi",,
+ATT240133,Ethiopia,Natural,Heirloom,86.5,"Mango, tropical fruits, watermelon, banana, fruity aftertaste, balanced acidity, clean",,
+ATT240134,Ethiopia,Washed,Heirloom,86.25,"Apple, floral, orange, tea-like, long aftertaste","apple, orange",Fruity
+ATT240136,Ethiopia,Natural,Heirloom,86.5,"Super sweet, cherry, grapes, chocolate, soft body, long finish, balanced.","cherry, chocolate","Fruity, Nutty/Cocoa"
+ATT240139,Ethiopia,Natural,Heirloom,86.75,"Strawberry, chocolate, vibrant acidity, long and intense floral finish","chocolate, strawberry","Fruity, Nutty/Cocoa"
+ATT240345,Brazil,Natural,Blend,,"Chocolate, Hazelnut, Tangerine","chocolate, hazelnut",Nutty/Cocoa
+ATT240370,Brazil,Natural,Blend,,"Dark Chocolate, Hazelnut, Apricot","dark chocolate, hazelnut",Nutty/Cocoa
+ATT240176,Kenya,Washed ,"SL 28, Ruiru 11, Batian",85.75," Floral, vanilla, juicy acidity, good and balanced aftertaste",vanilla,Sweet
+ATT240336,Rwanda,Natural,Bourbon,86.5,"Fruity, sugarcane, juicy  good finish",,
+ATT240340,Rwanda,Washed,Bourbon,85.75,"Oranges, fruity flavors, complex acidity, long finish, rounded body.",,
+ATT240353,Peru,Washed,"Caturra, Bourbon, Mundo Novo",84.5,"Dried fruits, cup chocolate, nuts, sweet finish, malt",malt,Roasted
+ATT240365,Peru,Washed,Bourbon,86.0,"Citrus fruits, panela, strawberries, hazelnut, hierba luisa, camomile, chocolate, berries, creamy body, sweetness, prolonged after taste.","chocolate, hazelnut",Nutty/Cocoa
+ATT240397,Peru,Washed,"Bourbon, Caturra",86.75,"Peach, honey, red fruits, caramel, rose wine, blonde raisins, creamy, complex, round","caramel, honey, peach","Fruity, Sweet"
+ATT210301,Colombia,Washed,Castillo & Colombia,,"Red Fruits, Citrus Notes, Sugar Cane, Candy",,
+Prices valid till 28-02-2025,,,,,,,
+ATT230440,Colombia,Anaerobic Honey,Caturra Chiroso,,"Delicate, Rose, Tea like, Raspberry, Honey, Floral","honey, raspberry, rose","Floral, Fruity, Sweet"
+ATT240101,Colombia,Natural,Ombligón,87.5,"Mango, tropical, Pina Colada,fermented, black currant, full and intese body, complex aftertaste",fermented,Sour/Fermented
+ATT240102,Colombia,Washed,Pink Bourbon,86.0,"Orange, smooth, bright acidity, raspberry, dark chocolate","dark chocolate, orange, raspberry","Fruity, Nutty/Cocoa"
+ATT240105,Colombia,Washed,  Yellow Pacamara,86.75,"lime, chocolate, stone fruits, bright acidity, coating body, med - long aftertaste ","chocolate, lime","Fruity, Nutty/Cocoa"
+ATT240113,Colombia,Honey Spice ,Papayo Bourbon,86.25,"Cinnamon, jagermeister!, anice, spicy, complex, taste like christmas ",cinnamon,Spices
+ATT240150,Colombia,Washed,Caturra,86.0,"Caramel, nougat, orange, milky and soft body, lingering aftertaste","caramel, orange","Fruity, Sweet"
+ATT230554,Brazil,Natural,Yellow Bourbon,84.5,"Bonbon, dark chocolate, butter scotch, mandarin, mild acidity, full body, long aftertaste","dark chocolate, mandarin","Fruity, Nutty/Cocoa"
+ATT230567,Vietnam,Wet Polished,Blend,,"Cacao, Caramel, Peanut","cacao, caramel, peanut","Nutty/Cocoa, Sweet"
+ATT240131,Ethiopia,Washed,Heirloom,86.75,"Forest fruits, lemon zest, grapefruit. black tea, tea like body",,
+ATT240135,Ethiopia,Washed,Heirloom,85.75,"Floral, orange, milk chocolate, plum, medium acidity, creamy and silky body","milk chocolate, orange","Fruity, Nutty/Cocoa"
+ATT240208,Ethiopia,Washed,Heirloom,84.5,"Banana, ice cream, sweet, round acidity, high quality full body",,
+Prices valid till 31-05-2024,,,,,,,
+ATT240295,Colombia,Anaerobic Washed,Geisha,87.5,"Floral, clove, ginger, green tea, lemongrass.",clove,Spices
+ATT250171,Colombia,"Washed co feremented,
+watermelon",Typica,86.0,"Watermelon, malic acidity, light body",,
+ATT250172,Colombia,"Anaerobic natural, yeast",Papayo,86.0,"Mon cheri chocolate, lactic acidity",,
+ATT250196,El Salvador,Castillo - Bourbon,Anaerobic Natural,88.0,"Pineapple, tropical fruits, merlot, chocolate,
+consistent, peach, mazapan","chocolate, peach, pineapple","Fruity, Nutty/Cocoa"
+ATT230312,Honduras,Natural,Typica,86.75,"Smooth, Long, Nectarine, Red Apple,
+Summer Fruits, Buttery mouthfeel",,
+ATT230313,Honduras,Natural,Typica,86.25,"Juicy, Fruity, Pleasant Acidity, Orange,
+Lemon, Mint, Cinnamon","cinnamon, lemon, orange","Fruity, Spices"
+ATT230439,Colombia,Washed,"Colombia /
+Castillo",84.0,"Grape, Orange blossom, Milk chocolate,
+Caramel","caramel, grape, milk chocolate","Fruity, Nutty/Cocoa, Sweet"
+ATT240137,Ethiopia,Washed,Heirloom,86.5,"Nectarine, vanilla, mint, bright citric acidity, round balanced body, good aftertaste - lingering",vanilla,Sweet
+ATT240183,Mexico,Washed,Geisha & Pache,87.0,"Jasmine, citrus, apple, caramel, refreshing cocoa aftertaste.","apple, caramel, jasmine","Floral, Fruity, Sweet"
+ATT240351,Peru,Honey,"Yellow Caturra, Bourbon",85.0,"Tropical fruits, melon, peach, vanila, fruity, jamaica flower aftertaste",peach,Fruity
+ATT250174,Colombia,"Washed, co
+fermented Ginger",SL - 28,86.0,"Ginger, citric acidity, black tea",black tea,Floral
+ATT250216,Kenya,Anaerobic Natural,Batian,86.5,"Grape fruit, fermented fruit, roasted
+nuts.",,
+ATT250193,Mexico,Washed,"Marsellesa,
+Guacamaya,
+Maragogype",86.25,"Dark chocolate, chamomille, cocoa, floral, nutty","cocoa, dark chocolate",Nutty/Cocoa
+ATT230135,Honduras,Honey,"Catuai
+Parainema",86.5,"Delicate, Juicy, Balanced, Tealike,
+Floral, Vanilla, Lemon","lemon, vanilla","Fruity, Sweet"
+ATT220277,Colombia,Anaerobic Natural,Caturra,87.75,"Jasmine, Peach, Blackcurrent,
+Caramel, Crisp Acidity, Round","caramel, jasmine, peach","Floral, Fruity, Sweet"
+ATT220162,India,Washed,"Sarchimor /
+Catimor",85.75,"Bright, Juicy, Sweet, Mandarin,
+Grapefruit, Butterscotch","grapefruit, mandarin",Fruity
+ATT220332,India,Natural,CxR,,-,,
+ATT220331,India,Natural,CxR,,-,,
+ATT220371,Brazil,Natural,Red Catuai,85.75,"Vanilla, Caramel, Dark Chocolate,
+Sweet, Soft, Balanced, Juicy finish","caramel, dark chocolate, vanilla","Nutty/Cocoa, Sweet"
+ATT220385,Brazil,Natural,"Yellow
+Bourbon",85.25,"Milk Chocolate, Caramel, Pecan,
+Mellow / Sweet, Nice acidity","caramel, milk chocolate","Nutty/Cocoa, Sweet"
+Prices valid till 25-10-2024,,,,,,,
+ATT220170,Honduras,Honey,Catuai,86.25,"Soft, Smooth, Forest Fruits,
+Caramel, Stone Fruit",caramel,Sweet
+ATT220116,India,Washed,S-795,85.0,"Complex, Medium Acidity,
+Orange Zest, Cacao Nibs",,
+ATT220332*,India,Natural,CxR,82.25,"Milk Chocolate, Malt, Hazelnut","hazelnut, malt, milk chocolate","Nutty/Cocoa, Roasted"
+ATT220331*,India,Natural,CxR,82.75,"Dark Chocolate, Toast,
+Hazelnut","dark chocolate, hazelnut",Nutty/Cocoa
+ATT210273,Brazil,Natural,Catuaí,85.0,"Bright, Strawberry, Rose,
+Dark chocolate, Caramel","caramel, dark chocolate, rose, strawberry","Floral, Fruity, Nutty/Cocoa, Sweet"
+ATT210274,Brazil,Natural,Catuaí,85.5,"Balanced, Bright, Syrupy, Milk
+Chocolate, Peanut, Nutmeg,
+Tangerine, Grape","grape, nutmeg, peanut","Fruity, Nutty/Cocoa, Spices"
+ATT210280,Brazil,Natural,Mundo Novo,86.5,"Round, Syrupy, Dark
+Chocolate,
+Caramel, Walnut, Orange","caramel, orange","Fruity, Sweet"
+ATT210285,Brazil,"Yellow Honey -
+Natural Fermented",Acaiá,86.0,"Mild, Medium Body, Sweet
+Pastry, Cherry, Hazelnut","cherry, hazelnut","Fruity, Nutty/Cocoa"
+ATT210286,Brazil,Natural,Red Catuaí,85.25,"Smooth, Silky Mouthfeel,
+Brown Sugar, Caramel, Plum,
+Mandarin","brown sugar, caramel, mandarin","Fruity, Sweet"
+ATT230112*,Vietnam,Natural,Blend,,-,,
+ATT240169,Kenya,Washed,"SL 28, Ruiru 11, Batian",86.5,"Floral, lime, tangerine, grapes, tart acidity, round body",lime,Fruity
+ATT240180,Kenya,Washed,"SL 28, Ruiru 11, Batian",87.0,"Sweet, tea like, stone fruit, medium acidity, bright and complex body, decent and long aftertaste ",,
+Prices valid till 31-07-2024,,,,,,,
+Quantity subject to unsold and confirmation ,,,,,,,
+All coffees located in Poland: prices exclude 23% VAT (only charged for companies registered in Poland),,,,,,,
+Prices valid till 31-08-2023,,,,,,,
+ATT240185,Mexico,Anaerobic Natural,Geisha - Caturra,87.0,"cherry, prune, caramel, cantalupe, peanut butter, juicy, long aftertaste","caramel, cherry, prune","Fruity, Sweet"
+Prices valid till 30-06-2024,,,,,,,
+ATT240284,Brazil,Natural,Blend,83.75,"Walnut, Milk Chocolate, Good Sweetness, Mellow Acidity",milk chocolate,Nutty/Cocoa
+Prices valid till 30-09-2024,,,,,,,
+Prices valid till 31-12-2023,,,,,,,
+ATT240332,Indonesia,Natural,Ateng,86.5,"Apel, maple sirupy, pineapple, grape, passion fruit,
+med acidity.","grape, pineapple",Fruity
+ATT250170,Colombia,"Washed, Co Fermented
+Mango",Pink Bourbon,86.0,"Orange chocolate, warm spiced, whiskey, intense
+flavour, boosy finish",whiskey,Sour/Fermented
+ATT250173,Colombia,Thermal Shock,Red Bourbon,86.0,"Vanilla beans, Kit Kat, Coconut milk, gooey mouthfeel,
+white chocolate finish",,
+ATT250344,Colombia,"Washed, Co
+Fermented Strawberry",Caturra,86.0,"Strawberry milk, toffee, gingerbread, mellow
+mouthfeel, long chocolate finish",,
+ATT250346,Colombia,"Washed, Co
+Fermented Passion fruit",Caturra,86.0,"Tropical fruits, lemon, vanilla cake, complex acidity,
+juicy mouthfeel",lemon,Fruity
+ATT250453,Brazil,Blend,Natural,,"Chocolate, hazelnut, long finish, good body","chocolate, hazelnut",Nutty/Cocoa
+ATT250468,Brazil,Blend,Natural,,"Chocolate, dried fruits, peanut","chocolate, peanut",Nutty/Cocoa
+Prices valid till 31-01-2024,,,,,,,
+ATT250124,Ethiopia,Washed,Heirloom,87.25,"Herbal, fruity,berry, juicy and balanced",herbal,Green/Vegetative
+ATT240374,Kenya,Anaerobic Natural,"Blue Mountain,
+Batian, Ruiru 11",88.0,"Banana, key lime pie, ripe pineapple",,
+ATT250203,Ethiopia,Natural,Heirloom,84.0,"Fruity fragnance, fruity to winey flavor, wine like
+acidity, lingering finish",,
+ATT230331,Colombia,Anaerobic thermal shock washed,Red Bourbon,87.0,"Vibrant, Juicy, Tropical Fruit, Pineapple, Ice Cream, Well Balanced, Medium Acidity",pineapple,Fruity
+ATT230270,India,Anaerobic Washed,S-795,85.75,"Smooth, Buttery, Butterscotch, Vanilla, Caramel","caramel, vanilla",Sweet
+ATT230180,Kenya,Washed,SL-28 / SL-34,87.5,"Juicy, Pleasant Acidity, Green Apple, Peach, Complex",peach,Fruity
+Prices valid till 30-06-2023,,,,,,,
+ATT230207*,India,Washed,S-795,,Upon arrival,,
+ATT230301*,India,Washed,S-795,,Upon arrival,,
+ATT230205*,India,Washed,CxR,,Upon arrival,,
+ATT230206*,India,Natural,CxR,,Upon arrival,,
+ATT230209*,India,Natural,CxR,,Upon arrival,,
+ATT230160,Kenya,Washed,SL-28 / SL-38,,Upon arrival,,
+ATT230200,El Salvador,Natural,Bourbon,,Upon arrival,,
+ATT240288,Colombia,Natural,Sidra Bourbon,87.0,"Plum, raisins, honey, maple",honey,Sweet
+Prices valid till 31-03-2024,,,,,,,
+Prices valid till 08-11-2024,,,,,,,
+"All coffees located in Warsaw, Poland: prices exclude 23% VAT (only charged for companies registered in Poland)",,,,,,,
+Prices valid till 30-04-2024,,,,,,,
+Prices valid till 11-10-2024,,,,,,,
+ATT220272,Colombia,Anaerobic washed,Pink Bourbon,87.5,"Tealike, Earl Grey, Mango,
+Sweet Orange, Good Body",,
+ATT220274,Colombia,"Anaerobic thermal
+shock washed",Red Bourbon,87.25,"Soft, Round, Red Apple, Citric,
+Herbal, Good Body",herbal,Green/Vegetative
+ATT210282,Brazil,Natural,Red Catuaí,87.25,"Bright, Lavender, Strawberry,
+Cherry, Dark Chocolate","cherry, dark chocolate, strawberry","Fruity, Nutty/Cocoa"
+ATT220342,Rwanda,Honey,Red Bourbon,86.75,"Blueberry, Cherry, Caramel,
+Hazelnut","blueberry, caramel, cherry, hazelnut","Fruity, Nutty/Cocoa, Sweet"
+ATT220383,Brazil,Natural,Blend,,,,
+ATT210276,Brazil,Natural,Red Catucaí,86.25,"Syrupy, Mango, Blueberry,
+Cocoa, Peanut","blueberry, cocoa, peanut","Fruity, Nutty/Cocoa"
+Prices valid till 29-02-2024,,,,,,,
