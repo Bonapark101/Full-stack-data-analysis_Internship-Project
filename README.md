@@ -22,7 +22,7 @@ Tableau: establish relationships, writing functions, data visualization
 # Result & Recommendation
 This analysis showed that revenue peaks in June/July, with 173% client growth from 2023 to 2025. Lot attributes reveal Brazil/Natural/Blend dominate velocity for aggressive scaling, Colombia/Anaerobic honey/Castillo variants lead margins (180-221%, for profit focus), while Vietnam and Guatemala underperform. Brazial/Natural/Blend and Colombia/Anaerobic honey/Castillo variants are highly aligned with Nutth/Cocoa flavour profiles. Additionally, Nutty/Cocoa flavour + SCA 83 - 85 maximize commercial velocity. 
 
-<img width="641" height="578" alt="Screenshot 2026-02-10 at 15 59 19" src="https://github.com/user-attachments/assets/802e6713-af6e-44a5-8266-1c9ce4725577" />
+<img width="441" height="378" alt="Screenshot 2026-02-10 at 15 59 19" src="https://github.com/user-attachments/assets/802e6713-af6e-44a5-8266-1c9ce4725577" />
 
 Recommendation: Rebalancing sourcing based on the finding to reduce holding costs and boost profitability.
 
