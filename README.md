@@ -2,11 +2,14 @@
 Spot coffee sales performance analysis
 
 # Executive summary
-The company is growing its client base and increasing the number of spot lots available. Using Python and Tableau, I pulled sales and lot attributes data to create a dashboard to inspect the sales and market trends throughout 2023 - 2025. I identified that the largest revenue oppportunities are to increase spot coffee lots having 'Nutty/Cocoa' and 'Nutty/Cocoa + Fruity' flavour. Additionally, I researched that these profiles match how consumer shift toward iced and cold coffee drinks in hot weather, where smooth chocolatey and fruity notes work especially well in lattes, coldb brew, and seasonal limited-time drinks.
+The company is growing its client base and increasing the number of spot lots available. Using Python and Tableau, I analysed sales and lot attribute data to build a dashboard insepcting sales and market trends across 2023-2025.
+
+The analysis identified that Attesa Coffee's revenue peaks in June and November align with major global harvest windows, reflecting healthy participation in the green spot market. However, despite significant revenue growth, profitability remains constrained by a concentration in low-price, low-margin transactions. Along with price and margin sales volumn analysis, sales velocity data reveals that commercial-grade lots from Brazil, India, and Vietnam with Nutty/Cocoa and Nutty/Cocoa and Fruity flavour profiles represent the core demand base, clearing inventory most efficiently within the current portfolio.
 
 I connected the finding to the market trend and consumer behaviour to recommended the company to:
-1) Source more coffees with Nutty/Cocoa and Nutty/Cocoa + Fruity flavour
-2) Increase the share of those flavour profiles in the company's summer spot offers. 
+1) Prioritise sourcing spot lots with Nutty/Cocoa and Nutty/Cocoa Fruity flavours, as these demonstrate the highest sales velocity and most consistent demand within the current portfolio
+   
+2) Increase the concentration of these flavour profiles and mid-SCA score/commercial grade lots during the April-May and September-October sourcing windows to maximise inventory turnover.
 
 # Business Problem
 The quality of green coffee beans degrade over time. When spot coffee lots sell slowly or at discounts, overall business performance and profitability drop. How can we reduce holding cost and maximize profit for spot coffees?
