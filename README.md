@@ -1,4 +1,4 @@
-# Full stack data analysis_Internship Project
+# Data analysis_Internship Project
 Spot coffee sales performance analysis
 
 # Executive summary
